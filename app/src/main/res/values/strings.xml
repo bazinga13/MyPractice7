@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">MyPractice7</string>
+    <string name="app_name">Practice_7</string>
+    <string name="score">0 - 0</string>
+    <string name="team">Team</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
 </resources>
